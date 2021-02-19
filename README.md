@@ -5,4 +5,8 @@ This repository contains a list of Jupyter notebooks with exercises associated w
 
 Reuse and modification are encouraged.
 
-
+Exercise 1: Travel time tomography (Land)
+Exercise 2: Travel time tomography (marine) - to be added
+Exercise 3: L-curve calculation for exercise 1
+Exercise 4: tbc
+Exercise 5: Full waveform inversion
